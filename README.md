@@ -142,7 +142,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues(https://github.com/rabayarabu/react-chat-app/issues).
+Feel free to check the <a href="(https://github.com/rabayarabu/react-chat-app/issues)">issues</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +160,7 @@ If you like this project, you are welcome to contribute or modify this project o
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank FreeCodeCamp(https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/) for providing this documentation.
+I would like to thank <a href="https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/">FreeCodeCamp</a> for providing this documentation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
